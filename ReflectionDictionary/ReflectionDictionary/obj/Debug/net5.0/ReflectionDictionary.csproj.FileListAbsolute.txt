@@ -1,0 +1,16 @@
+C:\Users\Samuel\Desktop\Estudo API-ASP-NET-CORE5\RefletionDictionarySCharp\ReflectionDictionarySCharp\ReflectionDictionary\ReflectionDictionary\obj\Debug\net5.0\ReflectionDictionary.csprojAssemblyReference.cache
+C:\Users\Samuel\Desktop\Estudo API-ASP-NET-CORE5\RefletionDictionarySCharp\ReflectionDictionarySCharp\ReflectionDictionary\ReflectionDictionary\obj\Debug\net5.0\ReflectionDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel\Desktop\Estudo API-ASP-NET-CORE5\RefletionDictionarySCharp\ReflectionDictionarySCharp\ReflectionDictionary\ReflectionDictionary\obj\Debug\net5.0\ReflectionDictionary.AssemblyInfoInputs.cache
+C:\Users\Samuel\Desktop\Estudo API-ASP-NET-CORE5\RefletionDictionarySCharp\ReflectionDictionarySCharp\ReflectionDictionary\ReflectionDictionary\obj\Debug\net5.0\ReflectionDictionary.AssemblyInfo.cs
+C:\Users\Samuel\Desktop\Estudo API-ASP-NET-CORE5\RefletionDictionarySCharp\ReflectionDictionarySCharp\ReflectionDictionary\ReflectionDictionary\obj\Debug\net5.0\ReflectionDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\Estudo API-ASP-NET-CORE5\RefletionDictionarySCharp\ReflectionDictionarySCharp\ReflectionDictionary\ReflectionDictionary\bin\Debug\net5.0\ReflectionDictionary.exe
+C:\Users\Samuel\Desktop\Estudo API-ASP-NET-CORE5\RefletionDictionarySCharp\ReflectionDictionarySCharp\ReflectionDictionary\ReflectionDictionary\bin\Debug\net5.0\ReflectionDictionary.deps.json
+C:\Users\Samuel\Desktop\Estudo API-ASP-NET-CORE5\RefletionDictionarySCharp\ReflectionDictionarySCharp\ReflectionDictionary\ReflectionDictionary\bin\Debug\net5.0\ReflectionDictionary.runtimeconfig.json
+C:\Users\Samuel\Desktop\Estudo API-ASP-NET-CORE5\RefletionDictionarySCharp\ReflectionDictionarySCharp\ReflectionDictionary\ReflectionDictionary\bin\Debug\net5.0\ReflectionDictionary.runtimeconfig.dev.json
+C:\Users\Samuel\Desktop\Estudo API-ASP-NET-CORE5\RefletionDictionarySCharp\ReflectionDictionarySCharp\ReflectionDictionary\ReflectionDictionary\bin\Debug\net5.0\ReflectionDictionary.dll
+C:\Users\Samuel\Desktop\Estudo API-ASP-NET-CORE5\RefletionDictionarySCharp\ReflectionDictionarySCharp\ReflectionDictionary\ReflectionDictionary\bin\Debug\net5.0\ref\ReflectionDictionary.dll
+C:\Users\Samuel\Desktop\Estudo API-ASP-NET-CORE5\RefletionDictionarySCharp\ReflectionDictionarySCharp\ReflectionDictionary\ReflectionDictionary\bin\Debug\net5.0\ReflectionDictionary.pdb
+C:\Users\Samuel\Desktop\Estudo API-ASP-NET-CORE5\RefletionDictionarySCharp\ReflectionDictionarySCharp\ReflectionDictionary\ReflectionDictionary\obj\Debug\net5.0\ReflectionDictionary.dll
+C:\Users\Samuel\Desktop\Estudo API-ASP-NET-CORE5\RefletionDictionarySCharp\ReflectionDictionarySCharp\ReflectionDictionary\ReflectionDictionary\obj\Debug\net5.0\ref\ReflectionDictionary.dll
+C:\Users\Samuel\Desktop\Estudo API-ASP-NET-CORE5\RefletionDictionarySCharp\ReflectionDictionarySCharp\ReflectionDictionary\ReflectionDictionary\obj\Debug\net5.0\ReflectionDictionary.pdb
+C:\Users\Samuel\Desktop\Estudo API-ASP-NET-CORE5\RefletionDictionarySCharp\ReflectionDictionarySCharp\ReflectionDictionary\ReflectionDictionary\obj\Debug\net5.0\ReflectionDictionary.genruntimeconfig.cache
